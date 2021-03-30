@@ -1,0 +1,14 @@
+1)create project folder and change dir to that model
+
+1) pip install --upgrade pip
+2)pip install virtualenv
+3)virtualenv myLambdaenv
+4)cd myLambdaenv
+4)Scripts\activate.bat
+
+pip install PyPDF2
+5)pip install boto3
+6)pip install PyMuPDF==1.16.14
+7)pip install fitz
+
+
